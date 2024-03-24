@@ -1,6 +1,6 @@
 ---
 title: ElasticSearch 7.10.2 离线文档
-author: pj.w@qq.com
+author: https://github.com/youthred
 header: ElasticSearch 7.10.2
 footer: ${pageNo}
 ---
@@ -13,7 +13,7 @@ footer: ${pageNo}
 
 ## 下载软件包
 
-- [Linuix](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-linux-x86_64.tar.gz) https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-linux-x86_64.tar.gz
+- [Linux](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-linux-x86_64.tar.gz) https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-linux-x86_64.tar.gz
 
 - [MacOS](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-darwin-x86_64.tar.gz) https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-darwin-x86_64.tar.gz
 - [Windows](https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-windows-x86_64.zip) https://artifacts.elastic.co/downloads/elasticsearch/elasticsearch-7.10.2-windows-x86_64.zip
